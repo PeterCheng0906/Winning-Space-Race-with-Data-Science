@@ -6,27 +6,27 @@ This project analyzes SpaceX Falcon 9 launch records to explore launch success f
 ---
 
 ## Project Structure
-
-Winning-Space-Race-with-Data-Science/
-│
+```text
+SpaceX-Project/
+|
 ├── SpaceX Project Presentation.pdf
 ├── SpaceX_Machine Learning Prediction_Part.ipynb
 ├── spacex-dash-app.py
 ├── spacex_launch_dash.csv
 ├── Spacex.csv
-│
+|
 ├── dataset_part_1.csv
 ├── dataset_part_2.csv
 ├── dataset_part_3.csv
-│
+|
 ├── edadataviz.ipynb
 ├── lab_jupyter_launch_site_location.ipynb
 ├── jupyter-labs-webscraping.ipynb
 ├── jupyter-labs-spacex-data-collection-api.ipynb
 ├── labs-jupyter-Spacex-Data wrangling.ipynb
-│
+|
 └── spacex_web_scraped.csv
-
+```
 
 ---
 
@@ -97,9 +97,6 @@ The dashboard includes:
 - SQLite  
 - BeautifulSoup, Requests  
 - Jupyter Notebook  
-
----
-
 
 ---
 
